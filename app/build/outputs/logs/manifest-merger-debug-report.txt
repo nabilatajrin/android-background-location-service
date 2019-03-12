@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c6487504003806df819f74b928b511eb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\03764a9d309fc05a5913d495b2dbbaa8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\6d46c427706f7c52d21d7eaa15d0923c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c3aef8b52b881f781c992cb092b3cb42\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:17:1-30:12
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+	package
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:17:5-48
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:1-39:12
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:20:22-78
+application
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:22:5-37:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c6487504003806df819f74b928b511eb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c6487504003806df819f74b928b511eb\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\03764a9d309fc05a5913d495b2dbbaa8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\03764a9d309fc05a5913d495b2dbbaa8\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\6d46c427706f7c52d21d7eaa15d0923c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\6d46c427706f7c52d21d7eaa15d0923c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c3aef8b52b881f781c992cb092b3cb42\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c3aef8b52b881f781c992cb092b3cb42\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:25:9-41
+	android:roundIcon
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:26:9-54
+	android:icon
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.walkmyandroid.MainActivity
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c6487504003806df819f74b928b511eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c6487504003806df819f74b928b511eb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\03764a9d309fc05a5913d495b2dbbaa8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-location-16.0.0.aar\03764a9d309fc05a5913d495b2dbbaa8\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\6d46c427706f7c52d21d7eaa15d0923c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\6d46c427706f7c52d21d7eaa15d0923c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c3aef8b52b881f781c992cb092b3cb42\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\c3aef8b52b881f781c992cb092b3cb42\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:20:5-22:41
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		ADDED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from G:\pgdit\finalproject\doc\android-advanced-starter-apps-master\android-advanced-starter-apps-master\WalkMyAndroid-Starter\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\862b6f5d7d2d1804e37e18f7f53dde4c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\e1993855c7548f7326ea6e6b51e8c632\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\ffe41c0110b78c79b898c9f680a9726b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0c9992bca99af1b0c47c282bbdccfe7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\1a80df832d9b5322c41c6cc23bd22d62\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\35722301ca4824a0940026e2a536c650\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\018c0628b71a50c064078554ae580f06\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\05ef73b90b33bb564b4e79f398dbde9d\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\06086a21763678f307d738aa1272c8cc\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\87fe9870fa80e0f1c2546ec91fa6d369\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\3b766a4f2dd79c42fdae11b0991a5f28\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\iit\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\144bbc88ddeeecab68915b9a7c0ee241\AndroidManifest.xml:26:13-58
