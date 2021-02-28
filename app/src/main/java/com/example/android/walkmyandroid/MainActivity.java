@@ -23,19 +23,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
-
 import static android.content.ContentValues.TAG;
 
 public class MainActivity extends AppCompatActivity {
-
     private static final int REQUEST_LOCATION_PERMISSION = 1 ;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-
     }
 
     private void getLocation() {
